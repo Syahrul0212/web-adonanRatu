@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.img-bg {
+  font-family: "Pacifico", cursive;
+}
+
+.logo {
+  position: absolute;
+  height: 200px !important;
+}
